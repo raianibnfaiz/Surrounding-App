@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314933868485",
+    "project_id": "surrounding-ef541",
+    "storage_bucket": "surrounding-ef541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314933868485:android:17f0bef57f0902f1247dac",
+        "android_client_info": {
+          "package_name": "com.example.surrounding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjHrnDtpgQw4DIZov6Pcr_cX0OFGUNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
